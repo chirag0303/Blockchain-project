@@ -1,8 +1,6 @@
 # Blockchain-project
-This Repo contains my college blockchain projects
 
-
-Supplychain.sol is a sample solidity contract that has features:
+Supplychain.sol is a solidity contract that has features:
   - Role-Based Access Control:
       Admin Role: The deployer of the contract is the admin by default
       Updater Role: Admin can grant/revoke permissions for specific addresses to update shipment statuses.
